@@ -13,5 +13,3 @@ def batch_badge_creator(speakers)
   end
   badge_messages
 end
-
-
