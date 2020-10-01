@@ -21,3 +21,9 @@ def assign_rooms(speakers)
   end
   new_arr
 end
+
+def printer (attendees)
+  batch_badge_creator(attendees).each {|badge| puts badge}
+    puts badge
+end
+  
